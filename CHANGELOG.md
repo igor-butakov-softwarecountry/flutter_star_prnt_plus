@@ -1,3 +1,7 @@
+## 2.4.5
+
+- Upgraded Kotlin version from 1.3.50 to 1.7.1
+
 ## 2.4.4
 
 - Fixed swift static libraries was not coping generated objective-c header

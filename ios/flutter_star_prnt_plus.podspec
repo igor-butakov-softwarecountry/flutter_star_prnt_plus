@@ -4,7 +4,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'flutter_star_prnt_plus'
-  s.version          = '0.0.2'
+  s.version          = '0.0.3'
   s.summary          = 'Flutter plugin for star printers.'
   s.description      = <<-DESC
   Flutter plugin for star printers.
@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
   s.public_header_files = 'Classes/**/*.h'
   s.dependency 'Flutter'
   s.static_framework = true
-  s.platform = :ios, '8.0'
+  s.platform = :ios, '14.0'
   s.preserve_paths = 'Frameworks/*.framework'
   s.vendored_frameworks = 'Frameworks/*.framework'
   # Flutter.framework does not contain a i386 slice. Only x86_64 simulators are supported.
