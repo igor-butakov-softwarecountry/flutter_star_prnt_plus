@@ -1,3 +1,7 @@
+## 2.4.6
+
+- Fix USB error with Android [uristrimber](https://github.com/uristrimber)
+
 ## 2.4.5
 
 - Upgraded Kotlin version from 1.3.50 to 1.7.1
@@ -12,7 +16,8 @@
 
 ## 2.4.2
 
-- Fixed no named parameter with the name 'size'. print_commands issue, credits to [@khp53](https://github.com/khp53)
+- Fixed no named parameter with the name 'size'. print_commands issue, credits
+  to [@khp53](https://github.com/khp53)
 
 ## 2.4.1
 
@@ -28,7 +33,8 @@
 
 ## 2.3.4
 
-- Credits to [jobsorrow](https://github.com/jobsorrow) for fixing android usb type connection
+- Credits to [jobsorrow](https://github.com/jobsorrow) for fixing android usb
+  type connection
 
 ## 2.3.3
 
@@ -44,9 +50,12 @@
 
 ## 2.3.0
 
-- Credits to [Eldhose-Islet](https://github.com/Eldhose-Islet) for creating response status object PrinterResponseStatus
-- Credits to [ImTung](https://github.com/ImTung) for creating StarMicronicsUtilities to find suitable emulations
-- Deprecated Starprnt's print and checkstatus functions, use sendCommands and getStatus instead
+- Credits to [Eldhose-Islet](https://github.com/Eldhose-Islet) for creating
+  response status object PrinterResponseStatus
+- Credits to [ImTung](https://github.com/ImTung) for creating
+  StarMicronicsUtilities to find suitable emulations
+- Deprecated Starprnt's print and checkstatus functions, use sendCommands and
+  getStatus instead
 - Add more comments
 
 ## 2.2.1
@@ -106,7 +115,8 @@
 
 ## 1.0.2
 
-- Fixed The 'Pods-Runner' target has transitive dependencies that include static frameworks bug
+- Fixed The 'Pods-Runner' target has transitive dependencies that include static
+  frameworks bug
 
 ## 1.0.1
 
